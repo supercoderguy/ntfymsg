@@ -7,5 +7,5 @@ Online messaging service for ntfy.sh
 3. Start messaging!
 
 # Requirements
-Requires ntfy.sh app
-Latest version of `bash` and `python3`
+1. Requires ntfy.sh app
+2. Latest version of `bash` and `python3`
